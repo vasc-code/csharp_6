@@ -1,0 +1,13 @@
+C:\Users\marce\Documents\GitHub\certificacao-csharp-pt6-estudio\01.02\antes\obj\Debug\01.02 antes.csprojAssemblyReference.cache
+C:\Users\marce\Documents\GitHub\certificacao-csharp-pt6-estudio\01.02\antes\obj\Debug\01.02.exe.config
+C:\Users\marce\Documents\GitHub\certificacao-csharp-pt6-estudio\01.02\antes\obj\Debug\01.02 antes.csproj.CoreCompileInputs.cache
+C:\Users\AS-Informatica\Documents\cursos\backend\c#\csharp_pt6\csharp_6.1\01.02\antes\bin\Debug\01.02.exe.config
+C:\Users\AS-Informatica\Documents\cursos\backend\c#\csharp_pt6\csharp_6.1\01.02\antes\bin\Debug\01.02.exe
+C:\Users\AS-Informatica\Documents\cursos\backend\c#\csharp_pt6\csharp_6.1\01.02\antes\bin\Debug\01.02.pdb
+C:\Users\AS-Informatica\Documents\cursos\backend\c#\csharp_pt6\csharp_6.1\01.02\antes\obj\Debug\01.02 antes.csprojAssemblyReference.cache
+C:\Users\AS-Informatica\Documents\cursos\backend\c#\csharp_pt6\csharp_6.1\01.02\antes\obj\Debug\01.02 antes.csproj.CoreCompileInputs.cache
+C:\Users\AS-Informatica\Documents\cursos\backend\c#\csharp_pt6\csharp_6.1\01.02\antes\obj\Debug\01.02.exe
+C:\Users\AS-Informatica\Documents\cursos\backend\c#\csharp_pt6\csharp_6.1\01.02\antes\obj\Debug\01.02.pdb
+C:\Users\AS-Informatica\Documents\cursos\backend\c#\csharp_pt6\csharp_6.1\01.02\antes\bin\Debug\Newtonsoft.Json.dll
+C:\Users\AS-Informatica\Documents\cursos\backend\c#\csharp_pt6\csharp_6.1\01.02\antes\bin\Debug\Newtonsoft.Json.xml
+C:\Users\AS-Informatica\Documents\cursos\backend\c#\csharp_pt6\csharp_6.1\01.02\antes\obj\Debug\01.02 antes.csproj.CopyComplete

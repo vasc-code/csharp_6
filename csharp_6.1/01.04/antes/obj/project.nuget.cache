@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "VclghR+48jnkVjeYJXbqth3gnQBFB1LLrjNF1ktHGKqAbn5W6zztsBBudxHVCUQIwiwVO8kQaHFNbDjlfcHg2g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AS-Informatica\\Documents\\cursos\\backend\\c#\\csharp_pt6\\csharp_6.1\\01.04\\antes\\01.04 antes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AS-Informatica\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\AS-Informatica\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\AS-Informatica\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\AS-Informatica\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Users\\AS-Informatica\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\AS-Informatica\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

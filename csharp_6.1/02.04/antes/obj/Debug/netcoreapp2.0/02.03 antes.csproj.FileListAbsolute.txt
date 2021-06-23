@@ -1,0 +1,11 @@
+C:\Users\AS-Informatica\Documents\cursos\backend\c#\csharp_pt6\csharp_6.1\02.04\antes\bin\Debug\netcoreapp2.0\02.03 antes.deps.json
+C:\Users\AS-Informatica\Documents\cursos\backend\c#\csharp_pt6\csharp_6.1\02.04\antes\bin\Debug\netcoreapp2.0\02.03 antes.runtimeconfig.json
+C:\Users\AS-Informatica\Documents\cursos\backend\c#\csharp_pt6\csharp_6.1\02.04\antes\bin\Debug\netcoreapp2.0\02.03 antes.runtimeconfig.dev.json
+C:\Users\AS-Informatica\Documents\cursos\backend\c#\csharp_pt6\csharp_6.1\02.04\antes\bin\Debug\netcoreapp2.0\02.03 antes.dll
+C:\Users\AS-Informatica\Documents\cursos\backend\c#\csharp_pt6\csharp_6.1\02.04\antes\bin\Debug\netcoreapp2.0\02.03 antes.pdb
+C:\Users\AS-Informatica\Documents\cursos\backend\c#\csharp_pt6\csharp_6.1\02.04\antes\obj\Debug\netcoreapp2.0\02.03 antes.AssemblyInfoInputs.cache
+C:\Users\AS-Informatica\Documents\cursos\backend\c#\csharp_pt6\csharp_6.1\02.04\antes\obj\Debug\netcoreapp2.0\02.03 antes.AssemblyInfo.cs
+C:\Users\AS-Informatica\Documents\cursos\backend\c#\csharp_pt6\csharp_6.1\02.04\antes\obj\Debug\netcoreapp2.0\02.03 antes.csproj.CoreCompileInputs.cache
+C:\Users\AS-Informatica\Documents\cursos\backend\c#\csharp_pt6\csharp_6.1\02.04\antes\obj\Debug\netcoreapp2.0\02.03 antes.dll
+C:\Users\AS-Informatica\Documents\cursos\backend\c#\csharp_pt6\csharp_6.1\02.04\antes\obj\Debug\netcoreapp2.0\02.03 antes.pdb
+C:\Users\AS-Informatica\Documents\cursos\backend\c#\csharp_pt6\csharp_6.1\02.04\antes\obj\Debug\netcoreapp2.0\02.03 antes.genruntimeconfig.cache
